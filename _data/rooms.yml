@@ -1,77 +1,38 @@
 # Base Rooms
-- name: Dining Room
+- name: Bathroom
   base: true
   emoji: 🍽️
 
-- name: Kitchen
+- name: Office
   base: true
   emoji: 🍳
 
-- name: Conservatory
+- name: Dinning Room
   base: true
   emoji: 🔭
 
-- name: Billiard Room
+- name: Game Room  
   base: true
   emoji: 🎱
 
-- name: Library
+- name: Garage
   base: true
   emoji: 📚
 
-# Standard Edition only
-- name: Lounge
-  base: false
-  edition: standard
-  emoji: 🛋️
+  - name: Bedroom
+  base: true
+  emoji: 📚
 
-- name: Hall
-  base: false
-  edition: standard
-  emoji: 🏛️
+- name: Living Room
+  base: true
+  emoji: 📚
 
-- name: Ballroom
-  base: false
-  edition: standard
-  emoji: 🕺
+- name: Kitchen
+  base: true
+  emoji: 📚
 
-- name: Study
-  base: false
-  edition: standard
-  emoji: 📜
-
-# Master Edition only
 - name: Courtyard
-  base: false
-  edition: master
-  emoji: 🗿
+  base: true
+  emoji: 📚
 
-- name: Gazebo
-  base: false
-  edition: master
-  emoji: 🏯
 
-- name: Drawing Room
-  base: false
-  edition: master
-  emoji: ✏️
-
-- name: Carriage House
-  base: false
-  edition: master
-  emoji: 🐎
-
-- name: Trophy Room
-  base: false
-  edition: master
-  emoji: 🏆
-
-- name: Studio
-  base: false
-  edition: master
-  emoji: 🎨
-
-- name: Fountain
-  base: false
-  edition: master
-  emoji: ⛲
