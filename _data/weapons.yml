@@ -1,12 +1,8 @@
-- name: Knife
-  base: true
-  emoji: 🔪
-  
 - name: Candlestick
   base: true
   emoji: 🕎
 
-- name: Revolver
+- name: Pistol
   base: true
   emoji: 🔫
 
@@ -22,12 +18,7 @@
   base: true
   emoji: 🔧
 
-- name: Poison
-  base: false
-  edition: master
-  emoji: 🏺
-
-- name: Horseshoe
+- name: Dagger
   base: false
   edition: master
   emoji: 🐴
